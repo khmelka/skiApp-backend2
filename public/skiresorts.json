@@ -1,0 +1,234 @@
+{
+ "skiresorts": [
+  {
+   "resortname": "Telluride Ski Resort",
+   "url": "https://www.tellurideskiresort.com",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-163.jpg",
+   "annualsnow": "276in''",
+   "lifts": "18",
+   "score": "95.6",
+   "latitude":  37.912395,
+   "longitude": -107.839107
+  },
+  {
+   "resortname": "Vail Ski Resort",
+   "url": "https://www.vail.com",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-169.jpg",
+   "annualsnow": "354in''",
+   "lifts": "31",
+   "score": "90.8",
+   "latitude": 39.635757,
+   "longitude": -106.362984
+  },
+  {
+   "resortname": "Aspen Snowmass",
+   "url": "https://www.aspensnowmass.com",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-142.jpg",
+   "annualsnow": "295in''",
+   "lifts": "20",
+   "score": "88.9",
+   "latitude": 39.2090,
+   "longitude":  -106.9499
+  },
+  {
+   "resortname": "Steamboat Ski Resort",
+   "url": "https://www.steamboat.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-150.jpg",
+   "annualsnow": "368in''",
+   "lifts": "18",
+   "score": "88.3",
+   "latitude": 40.457175,
+   "longitude": -106.804533
+  },
+  {
+   "resortname": "Winter Park Ski Resort",
+   "url": "https://www.winterparkresort.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-180.jpg",
+   "annualsnow": "347in''",
+   "lifts": "25",
+   "score": "85.4",
+   "latitude": 39.8868,
+   "longitude": -105.7625
+  },
+  {
+   "resortname": "Beaver Creek Resort",
+   "url": "https://www.beavercreek.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-17.jpg",
+   "annualsnow": "325in''",
+   "lifts": "25",
+   "score": "84.9",
+   "latitude": 39.6043,
+   "longitude": -106.5167
+  },
+  {
+   "resortname": "Aspen Highlands",
+   "url": "https://www.aspensnowmass.com/our-mountains/aspen-highlands",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-12.jpg",
+   "annualsnow": "252in''",
+   "lifts": "5",
+   "score": "83.8",
+   "latitude": 39.1823,
+   "longitude": -106.8555
+  },
+  {
+   "resortname": "Aspen Mountain - Ajax",
+   "url": "https://www.stayaspensnowmass.com/info/mountain/aspen",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-13.jpg",
+   "annualsnow": "250in''",
+   "lifts": "8",
+   "score": "83.0",
+   "latitude": 39.176099,
+   "longitude": -106.829206
+  },
+  {
+   "resortname": "Breckenridge Ski Resort",
+   "url": "https://www.breckenridge.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-29.jpg",
+   "annualsnow": "282in''",
+   "lifts": "31",
+   "score": "81.7",
+   "latitude": 39.481111,
+   "longitude": -106.066567
+  },
+  {
+   "resortname": "Crested Butte Ski Resort",
+   "url": "https://www.skicb.com",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-44.jpg",
+   "annualsnow": "253in''",
+   "lifts": "16",
+   "score": "79.5",
+   "latitude": 38.8697,
+   "longitude": -106.9878
+  },
+  {
+   "resortname": "Arapahoe Basin Ski Area",
+   "url": "https://www.arapahoebasin.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-9.jpg",
+   "annualsnow": "314in",
+   "lifts": "7",
+   "score": "78.7",
+   "latitude": 39.6425,
+   "longitude": -105.8719
+  },
+  {
+   "resortname": "Copper Mountain",
+   "url": "https://www.coppercolorado.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-42.jpg",
+   "annualsnow": "278in''",
+   "lifts": "22",
+   "score": "78.1",
+   "latitude": 39.5021,
+   "longitude": -106.1510
+  },
+  {
+   "resortname": "Loveland Ski Area",
+   "url": "https://skiloveland.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-83.jpg",
+   "annualsnow": "344in''",
+   "lifts": "10",
+   "score": "77.8",
+   "latitude": 39.6800,
+   "longitude": -105.8979
+  },
+  {
+   "resortname": "Keystone Resort",
+   "url": "https://www.keystoneresort.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-74.jpg",
+   "annualsnow": "235in''",
+   "lifts": "20",
+   "score": "76.0",
+   "latitude": 39.6084,
+   "longitude": -105.9437
+  },
+  {
+   "resortname": "Wolf Creek Ski Resort",
+   "url": "https://wolfcreekski.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-181.jpg",
+   "annualsnow": "387in''",
+   "lifts": "7",
+   "score": "75.8",
+   "latitude": 37.472222,
+   "longitude": -106.793333
+  },
+  {
+   "resortname": "Purgatory Ski Resort",
+   "url": "https://www.purgatoryresort.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-118.jpg",
+   "annualsnow": "264in''",
+   "lifts": "10",
+   "score": "69.1",
+   "latitude": 37.6303,
+   "longitude": -107.8140
+  },
+  {
+   "resortname": "Aspen Buttermilk",
+   "url": "https://www.aspensnowmass.com/our-mountains/buttermilk",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-37.jpg",
+   "annualsnow": "200in''",
+   "lifts": "8",
+   "score": "69.0",
+   "latitude": 39.2058,
+   "longitude": -106.8605
+  },
+  {
+   "resortname": "Monarch Mountain",
+   "url": "https://www.skimonarch.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-89.jpg",
+   "annualsnow": "284in''",
+   "lifts": "7",
+   "score": "63.7",
+   "latitude": 38.51250,
+   "longitude": -106.33250 
+  },
+  {
+   "resortname": "Powderhorn Resort",
+   "url": "https://www.powdermountain.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-117.jpg",
+   "annualsnow": "225in''",
+   "lifts": "5",
+   "score": "61.1",
+   "latitude": 39.0694,
+   "longitude": -108.1507
+  },
+  {
+   "resortname": "Eldora Mountain Resort",
+   "url": "https://www.eldora.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-56.jpg",
+   "annualsnow": "225in''",
+   "lifts": "11",
+   "score": "60.0",
+   "latitude": 39.9375,
+   "longitude": -105.583611
+  },
+  {
+   "resortname": "Sunlight Mountain Ski Resort",
+   "url": "https://sunlightmtn.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-160.jpg",
+   "annualsnow": "232in''",
+   "lifts": "3",
+   "score": "58.4",
+   "latitude": 39.3998,
+   "longitude": -107.3388
+  },
+  {
+   "resortname": "Cuchara Mountain Resort",
+   "url": "https://thecucharamountainpark.org",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-46.jpg",
+   "annualsnow": "200in''",
+   "lifts": "5",
+   "score": "50.3",
+   "latitude": 37.37416517,
+   "longitude": -105.100166266
+  },
+  {
+   "resortname": "Ski Granby Ranch Resort",
+   "url": "https://www.granbyranch.com/",
+   "logo": "https://d1aup3of1p0fq2.cloudfront.net/resort-logos/resort-logo-133.jpg",
+   "annualsnow": "200in'",
+   "lifts": "6",
+   "score": "48.6",
+   "latitude": 40.045221,
+   "longitude": -105.906196
+  }
+ ]
+}
